@@ -1,0 +1,1 @@
+export const authUserUrl = "http://localhost:3600/api/user/auth"
